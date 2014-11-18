@@ -1,6 +1,5 @@
-
-<A>
-  <B>
-      Esta es una prueba
-  </B>
-</A>
+<Pasteles>
+  <Pastel nombre="Queso" esta_vencido="no" cantidad="3"></Pastel>
+  <Pastel nombre="Vainilla" esta_vencido="no" cantidad="5"></Pastel>
+  <Pastel nombre="Coco" esta_vencido="si" cantidad="30"></Pastel>
+</Pasteles>
